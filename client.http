@@ -1,7 +1,7 @@
-GET http://localhost:3001/
+GET http://localhost:3000/
 
 ###
-POST http://localhost:3001/register
+POST http://localhost:3000/register
 Content-Type: application/json
 
 {
